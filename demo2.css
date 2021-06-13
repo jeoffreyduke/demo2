@@ -1,0 +1,39 @@
+#endconvo {
+    background-color: black;
+    text-align: center;
+}
+
+button {
+    color: white;
+    background-color: aqua;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+.hidemo2 {
+    height: 60px;
+    width: 300px;
+    border-radius: 50px !important;
+    border: 1px solid black;
+}
+
+#yourmessage1, #yourmessage2, #yourmessage3, #yourmessage4, #yourmessage5 {
+    color: aqua;
+    border: 1px solid black;
+    font-family: sans-serif;
+    font-size: small;
+}
+
+#demo2message1, #demo2message2, #demo2message3, #demo2message4, #demo2message5 {
+    color: white;
+    border: 1px solid black;
+    font-family: sans-serif;
+    font-size: smaller;
+}
+
+.end {
+    height: 60px;
+    width: 300px;
+    border-radius: 50px !important;
+    border: 1px solid black;
+}
